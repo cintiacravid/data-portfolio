@@ -2,9 +2,9 @@
 
 Olá! Este é o meu portefólio como analista de dados, onde partilho projetos em:
 
-- 📊 SQL
-- 🐍 Python
-- 📈 Power BI
+- 📊 SQL para análise de bases de dados
+- 🐍 Python para visualização e tratamento de dados
+- 📈 Power BI para criar dashboards interativos
 
 ## Projetos
 
